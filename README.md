@@ -88,4 +88,3 @@ The pipeline is orchestrated to run **daily**, with built-in **monitoring and al
 * Advanced anomaly detection
 * Cloud deployment (AWS/GCP)
 * Real-time streaming ingestion
-⭐ If you like this project, consider starring the repository!
